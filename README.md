@@ -13,7 +13,7 @@ The Password Generator App is a React Native application that helps users genera
 
 ## Screenshot
 
-![App Screenshot](./android/screenshot/PasswordGenerator.png)
+![App Screenshot](./screenshot/PasswordGenerator.png)
 
 
 
@@ -23,7 +23,7 @@ To get started with this project, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/miraj004/password-generator-app.git
+   git clone https://github.com/miraj004/react-native-password-generator-app.git
    cd password-generator-app
 
 2. **Install dependencies**
