@@ -124,6 +124,7 @@ function App(): React.JSX.Element {
           <>
             <View>
               <Text style={styles.heading}>Password Generator</Text>
+              <Divider style={{marginHorizontal: 100, backgroundColor: '#000'}} />
             </View>
             <View style={styles.inputContainer}>
               <TextInput
@@ -219,7 +220,7 @@ const styles = StyleSheet.create({
   heading: {
     fontSize: 20,
     fontWeight: 'bold',
-    color: '#111',
+    color: '#888',
     textAlign: 'center',
   },
   darkText: {
